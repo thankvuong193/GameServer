@@ -1,0 +1,6 @@
+sudo: true
+mono: none
+script:
+    - exit 0
+notifications:
+    email: false
